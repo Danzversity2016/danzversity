@@ -87,7 +87,7 @@ body {
 	opacity: 0;
 	visibility: hidden;
 	padding: 8px;
-	background: #5B9166;
+	background: #DFAB1C;
 	color:#fff;
 	text-align: left;
 	position: absolute;
@@ -109,7 +109,7 @@ body {
 .cssmenu > ul > li > ul:before {
 	content: '';
 	display: block;
-	border-color: transparent transparent  #5B9166 transparent;
+	border-color: transparent transparent  #DFAB1C transparent;
 	border-style: solid;
 	border-width: 10px;
 	position: absolute;
@@ -130,7 +130,7 @@ body {
  	color: #ffffff;
 	font-family: 'Quattrocento Sans', sans-serif;
 	font-size: 13px;
-	background: #5b9a68;
+	background: #C99B1A;
 	padding: 8px;
 	display: block;
 	-webkit-transition: background-color 0.1s;
@@ -139,7 +139,7 @@ body {
 	transition: background-color 0.1s;
 }
 .cssmenu ul ul a:hover {
-  	background-color:  #5B9166;
+  	background-color:  #DFAB1C;
 }
 .cssmenu ul ul ul {
 	 visibility: hidden;
@@ -148,7 +148,7 @@ body {
 	 top: -16px;
 	 left: 206px;
 	 padding: 8px;
-	 background: #5B9166;
+	 background: #DFAB1C;
 	 text-align: left;
 	 width: 160px;
 	 -webkit-transition: all .3s;
@@ -162,12 +162,12 @@ body {
 	  visibility: visible;
 }
 .cssmenu ul ul a:hover {
-	background: #5B9166;
+	background: #DFAB1C;
  	color: #f0f0f0;
 }
 /*---start-content----*/
 .content_top{
-	background: #5b9a68;
+	background: #C99B1A;
 	padding:48px 0;
 	text-align: center;
 	font-family: 'Quattrocento Sans', sans-serif;
@@ -276,7 +276,7 @@ body {
 .button{
 	font-family: 'Quattrocento Sans', sans-serif;
 	color: #ffffff;
-	background: #5b9a68;
+	background: #C99B1A;
 	display: inline-block;
 	text-transform: uppercase;
 	padding: 10px 30px;
@@ -401,7 +401,7 @@ body {
 	position: absolute;
 	font-family: 'Quattrocento Sans', sans-serif;
 	color: #ffffff;
-	background: #5b9a68;
+	background: #C99B1A;
 	display: inline-block;
 	text-transform: uppercase;
 	padding: 11px 30px;
@@ -823,7 +823,7 @@ form{
 	-webkit-appearance: none;
 	font-family: 'Quattrocento Sans', sans-serif;
 	color: #ffffff;
-	background: #5b9a68;
+	background: #C99B1A;
 	border:none;
 	outline:none;
 	cursor:pointer;
@@ -850,7 +850,7 @@ form{
 }
 .company_address p span{
 	cursor:pointer;
-	color: #5b9a68;	
+	color: #C99B1A;	
 }
 .company_address p span:hover{
 	text-decoration:none;
