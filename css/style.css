@@ -556,8 +556,14 @@ body {
 .listimg_2_of_1 {
 	width: 38.2%;
 }
+.listimg_2_of_1_staff {
+	width: 75%;
+}
 .list_2_of_1 {
 	width: 56.2%;
+}
+.list_2_of_1_staff {
+	width: 22%;
 }
 .images_1_of_2  img {
 	max-width:100%;
