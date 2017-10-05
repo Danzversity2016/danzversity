@@ -1025,30 +1025,21 @@ form{
 
 
 .carousel {
-	background: #EEE;
+	background: #000000;
+	height: 600px;
   }
   
   .carousel-cell {
 	width: 100%;
-	height: 200px;
+	height: 100%;
 	margin-right: 10px;
-	background: #8C8;
 	border-radius: 5px;
 	counter-increment: gallery-cell;
   }
   
   @media screen and ( min-width: 768px ) {
 	/* half-width cells for larger devices */
-	.carousel-cell { width: 50%; }
+	.carousel-cell { width: 80%; }
   }
-  
-  /* cell number */
-  .carousel-cell:before {
-	display: block;
-	text-align: center;
-	content: counter(gallery-cell);
-	line-height: 200px;
-	font-size: 80px;
-	color: white;
-  }
+
   
