@@ -165,9 +165,14 @@ body {
 	background: #DFAB1C;
  	color: #f0f0f0;
 }
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
 /*---start-content----*/
 .content_top{
-	background: #C99B1A;
+	background:  #80B88C;
 	padding:48px 0;
 	text-align: center;
 	font-family: 'Quattrocento Sans', sans-serif;
