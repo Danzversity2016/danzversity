@@ -194,8 +194,8 @@ body {
 	font-family: 'Helvetica';
 	font-size: 20px;
 	color: black;
-    margin:0px 300px 0px 300px;
-    font-weight: -15;
+    margin:0px 250px 0px 250px;
+    font-weight: light;
 	
 }
 .content_s h3{
@@ -203,7 +203,7 @@ body {
 	line-height: 150px;
 	font-family: 'Futura';
 	font-size:46px;
-    font-weight: 50;
+    font-weight: bold;
 	color: black;
 	text-transform: uppercase;
 	
