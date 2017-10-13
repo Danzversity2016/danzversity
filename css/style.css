@@ -193,7 +193,7 @@ body {
 }
 .content_s h2{
 	font-family: 'Quattrocento Sans', sans-serif;
-	font-size: 35px;
+	font-size: 1em;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	text-shadow: 0 1px 0 #383838;
@@ -202,14 +202,14 @@ body {
 	letter-spacing:-4px;
 	line-height: 1.8em;
 	font-family: 'Quattrocento Sans', sans-serif;
-	font-size:60px;
+	font-size:2em;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	text-shadow: 0 1px 0 #383838;
 }
 .content_s h4{
 	font-family: 'Quattrocento Sans', sans-serif;
-	font-size: 4em;
+	font-size: 2em;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	text-shadow: 0 1px 0 #383838;
