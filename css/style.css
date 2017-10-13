@@ -193,9 +193,9 @@ body {
 .content_s h2{
 	font-family: 'Futura';
 	font-size: 20px;
-	color: blue;
+	color: black;
 	text-transform: uppercase;
-    margin:0px 15px 0px 15px;
+    margin:0px 100px 0px 100px;
 	
 }
 .content_s h3{
