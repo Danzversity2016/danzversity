@@ -201,14 +201,15 @@ body {
 	letter-spacing:0px;
 	line-height: 1.8em;
 	font-family: 'Futura';
-	font-size:20px;
+	font-size:46px;
+    font-weight: 50;
 	color: black;
 	text-transform: uppercase;
 	
 }
 .content_s h4{
 	font-family: 'Futura';
-	font-size: 2em;
+	font-size: 20px;
 	color: black;
 	text-transform: uppercase;
 	
