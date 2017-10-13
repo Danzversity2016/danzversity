@@ -194,8 +194,10 @@ body {
 	font-family: 'Helvetica';
 	font-size: 20px;
 	color: black;
-    margin:0em 2em 0em 2em;
     font-weight: light;
+    position: absolute;
+    	left: 200px;
+   		right: 200px;
 	
 }
 .content_s h3{
