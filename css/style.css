@@ -195,7 +195,7 @@ body {
 	font-size: 1em;
 	color: black;
 	text-transform: uppercase;
-	text-shadow: 0 1px 0 #383838;
+	
 }
 .content_s h3{
 	letter-spacing:-4px;
@@ -204,14 +204,14 @@ body {
 	font-size:2em;
 	color: black;
 	text-transform: uppercase;
-	text-shadow: 0 1px 0 #383838;
+	
 }
 .content_s h4{
 	font-family: 'Futura';
 	font-size: 2em;
 	color: black;
 	text-transform: uppercase;
-	text-shadow: 0 1px 0 #383838;
+	
 }
 .rd_more{
 	margin-top: 2%;
