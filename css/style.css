@@ -62,7 +62,6 @@ body {
 	vertical-align: middle;
 }
 .cssmenu > ul > li > a {
-	text-shadow: 0 1px 0 rgb(37, 18, 18);
 	font-family: 'Quattrocento Sans', sans-serif;
 	color: black;
 	display: block;
