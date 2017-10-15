@@ -5,7 +5,6 @@ http://flickity.metafizzy.co
 .flickity-enabled {
     position: relative;
     height: 85%;
-    width: 85%;
   }
   
   .flickity-enabled:focus { outline: none; }
