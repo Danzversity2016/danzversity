@@ -4,7 +4,7 @@ http://flickity.metafizzy.co
 
 .flickity-enabled {
     position: relative;
-    height: 85%;
+    height: 5%;
   }
   
   .flickity-enabled:focus { outline: none; }
