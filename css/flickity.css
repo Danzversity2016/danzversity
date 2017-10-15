@@ -4,6 +4,8 @@ http://flickity.metafizzy.co
 
 .flickity-enabled {
     position: relative;
+  height: 75%
+  witdth: 75%
   }
   
   .flickity-enabled:focus { outline: none; }
@@ -16,8 +18,8 @@ http://flickity.metafizzy.co
   
   .flickity-slider {
     position: absolute;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
   }
   
   /* draggable */
